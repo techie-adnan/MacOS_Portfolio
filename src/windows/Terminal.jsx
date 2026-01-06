@@ -33,7 +33,7 @@ const Terminal = () => {
                                   {item}
                                   {i < items.length -1 ? "," : ""}
                               </li>
-                          ))};
+                          ))}
                       </ul>
                   </li>
               ))}
